@@ -1,9 +1,7 @@
 # 
-Here’s the updated GitHub README with the name **EquationEye**:  
 
----
 
-# 👀 EquationEye – Handwritten Math Expression Recognition  
+# EquationEye – Handwritten Math Expression Recognition  
 
 EquationEye is an AI-powered OCR model designed to recognize handwritten mathematical expressions with high accuracy. Using deep learning techniques, it processes images of equations and extracts mathematical symbols for further computation.  
 
